@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="809d04e7-01e0-4794-a0ff-495cf3887432" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/chain_of_responsibility/auth_providers/OAuthProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/cor/auth_providers/OAuthProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/chain_of_responsibility/auth_providers/UsernamePasswordProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/cor/auth_providers/UsernamePasswordProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/chain_of_responsibility/handlers/AuthenticationProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/cor/handlers/AuthenticationProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/chain_of_responsibility/handlers/OAuthProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/cor/handlers/OAuthProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/chain_of_responsibility/handlers/UsernamePasswordProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/cor/handlers/UsernamePasswordProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/chain_of_responsibility/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/cor/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/null_object/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/nullobject/Animal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/null_object/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/nullobject/Dog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/null_object/NoAnimal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/nullobject/NoAnimal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/behavioural/null_object/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/behavioural/nullobject/main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28hyrMpdyaCGNKTuY3X50pWBh15" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "azul-15"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="behavioural.state.context" />
+      <recent name="structural.adaptor.adaptee" />
+      <recent name="behavioural.command.editor" />
+      <recent name="behavioural.command" />
+      <recent name="creational.abstractfactory.checkboxes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioural.state.MainKt" />
+      <module name="talos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioural.null_object.MainKt" />
+      <module name="talos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.builder.MainKt" />
+      <module name="talos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioural.visitor.MainKt" />
+      <module name="talos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioural.nullobject.MainKt" />
+      <module name="talos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioural.cor.MainKt" />
+      <module name="talos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.MainKt (5)" />
+        <item itemvalue="Kotlin.MainKt (4)" />
+        <item itemvalue="Kotlin.MainKt (3)" />
+        <item itemvalue="Kotlin.MainKt (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="809d04e7-01e0-4794-a0ff-495cf3887432" name="Changes" comment="" />
+      <created>1651683310995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651683310995</updated>
+      <workItem from="1651683312675" duration="41841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
